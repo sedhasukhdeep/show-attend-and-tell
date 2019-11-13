@@ -53,12 +53,13 @@ Here are the BLEU scores which we received after running the model in comparison
 
 ![BLEU scores](BLEU_scores.png)
 
-Attention layers and gradient plot
+# Attention layers and gradient plot
 
 ![Attention](attention_b.png)
 
-Batch-loss curve
+# Batch-loss curve
 
+![loss](loss.png)
 
 
 Report link TBD
