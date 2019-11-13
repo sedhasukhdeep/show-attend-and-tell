@@ -39,11 +39,11 @@ Run all the cells in Model_train file
 
 We have successfully replicated the research paper "Show, Attend and Tell - Neural Image Caption Generation with Visual Attention" and achieved following accuracy scores:
 
-BLEU-1 : 61.82%
-BLEU-2 : 40.05%
-BLEU-3 : 26.17%
-BLEU-4 : 17.49%
-METEOR : 19.93%
+- BLEU-1 : 61.82%
+- BLEU-2 : 40.05%
+- BLEU-3 : 26.17%
+- BLEU-4 : 17.49%
+- METEOR : 19.93%
 
 
 
