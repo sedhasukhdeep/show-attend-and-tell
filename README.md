@@ -30,7 +30,7 @@ Run all the cells in Model_train file
 
 # Step 2
 
-- ADDING LINK FOR PRETRAINED MODELS
+- LINK FOR PRETRAINED MODELS : https://www.dropbox.com/s/nq7o5ynvs4etdsi/models.zip?dl=0
 - Unzip these to /show-attend-and-tell-tensorflow/models/lstm/
 - Copy the eval file from root to /show-attend-and-tell-tensorflow/
 - Run all cells
