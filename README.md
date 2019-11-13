@@ -35,4 +35,24 @@ Run all the cells in Model_train file
 - Copy the eval file from root to /show-attend-and-tell-tensorflow/
 - Run all cells
 
+## Evaluation
+
+We have successfully replicated the research paper "Show, Attend and Tell - Neural Image Caption Generation with Visual Attention" and achieved following accuracy scores:
+
+- BLEU-1 : 61.82%
+- BLEU-2 : 40.05%
+- BLEU-3 : 26.17%
+- BLEU-4 : 17.49%
+- METEOR : 19.93%
+
+![Images with caption](Fig1.png)
+
+![Images with caption](Fig2.png)
+
+Here are the BLEU scores which we received after running the model in comparison to author's:
+
+![BLEU scores](BLEU_scores.png)
+
 Report link TBD
+
+
