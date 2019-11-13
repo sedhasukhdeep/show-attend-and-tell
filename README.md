@@ -45,6 +45,8 @@ We have successfully replicated the research paper "Show, Attend and Tell - Neur
 - BLEU-4 : 17.49%
 - METEOR : 19.93%
 
+![Images with caption](Fig1.png)
+
 
 
 Report link TBD
