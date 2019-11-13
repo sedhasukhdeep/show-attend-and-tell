@@ -36,3 +36,16 @@ Run all the cells in Model_train file
 - Run all cells
 
 Report link TBD
+
+# Evaluation - We have successfully replicated the research paper "Show, Attend and Tell - Neural Image Caption Generation with Visual Attention". The BLEU scores are:
+
+BLEU-1 : 61.82%
+BLEU-2 : 40.05%
+BLEU-3 : 26.17%
+BLEU-4 : 17.49%
+METEOR : 19.93%
+
+# Images with captions:
+
+
+
