@@ -49,7 +49,9 @@ We have successfully replicated the research paper "Show, Attend and Tell - Neur
 
 ![Images with caption](Fig2.png)
 
+Here are the BLEU scores which we received after running the model in comparison to author's:
 
+![BLEU scores](BLEU_scores.png)
 
 Report link TBD
 
