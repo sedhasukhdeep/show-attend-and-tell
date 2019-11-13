@@ -1,4 +1,4 @@
-# show-attend-and-tell
+# Show, Attend and Tell - Neural Image Caption Generation with Visual Attention
 
 Group members:
 1. Sukhdeep Singh 
@@ -52,6 +52,15 @@ We have successfully replicated the research paper "Show, Attend and Tell - Neur
 Here are the BLEU scores which we received after running the model in comparison to author's:
 
 ![BLEU scores](BLEU_scores.png)
+
+# Attention layers and gradient plot
+
+![Attention](attention_b.png)
+
+# Batch-loss curve
+
+![loss](loss.png)
+
 
 Report link TBD
 
