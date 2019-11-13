@@ -47,6 +47,8 @@ We have successfully replicated the research paper "Show, Attend and Tell - Neur
 
 ![Images with caption](Fig1.png)
 
+![Images with caption](Fig2.png)
+
 
 
 Report link TBD
