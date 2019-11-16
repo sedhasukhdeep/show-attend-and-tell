@@ -1,15 +1,19 @@
 # Show, Attend and Tell - Neural Image Caption Generation with Visual Attention
 
+## Project for ITEC876 (Applications of data science)
+
+
 Group members:
 1. Sukhdeep Singh 
 2. Mahima Gupta
 3. Kartik Kamboj
 4. Shreeya Baidya
 
+Link to report: https://github.com/sedhasukhdeep/show-attend-and-tell/blob/master/Report_Group%20M.pdf
 
-Requirement:
+Requirements to run the project:
 
-(As successfully replicated): LINK to instance Available on request
+(As successfully replicated): Link to instance availble on request
 
 - AWS SAGEMAKER ml.m4.16x large instance (needs to be requested specially) [Colab, GCP does not work when tested]
 - Conda 2.7 with tensorflow kernel
