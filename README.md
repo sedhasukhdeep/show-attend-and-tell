@@ -13,7 +13,7 @@ Link to report: https://github.com/sedhasukhdeep/show-attend-and-tell/blob/maste
 
 Requirements to run the project:
 
-(As successfully replicated): Link to instance availble on request
+(As successfully replicated): Link to instance available on request.
 
 - AWS SAGEMAKER ml.m4.16x large instance (needs to be requested specially) [Colab, GCP does not work when tested]
 - Conda 2.7 with tensorflow kernel
@@ -34,7 +34,7 @@ Run all the cells in Model_train file
 
 # Step 2
 
-- LINK FOR PRETRAINED MODELS : https://www.dropbox.com/s/nq7o5ynvs4etdsi/models.zip?dl=0
+- LINK FOR MODELS TRAINED DURING REPLICATION: https://www.dropbox.com/s/nq7o5ynvs4etdsi/models.zip?dl=0
 - Unzip these to /show-attend-and-tell-tensorflow/models/lstm/
 - Copy the eval file from root to /show-attend-and-tell-tensorflow/
 - Run all cells
@@ -66,6 +66,6 @@ Here are the BLEU scores which we received after running the model in comparison
 ![loss](loss.png)
 
 
-Report link TBD
+
 
 
