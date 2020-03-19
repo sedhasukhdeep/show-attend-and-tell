@@ -3,12 +3,6 @@
 ## Project for ITEC876 (Applications of data science)
 
 
-Group members:
-1. Sukhdeep Singh 
-2. Mahima Gupta
-3. Kartik Kamboj
-4. Shreeya Baidya
-
 Link to report: https://github.com/sedhasukhdeep/show-attend-and-tell/blob/master/Report_Group%20M.pdf
 
 Requirements to run the project:
